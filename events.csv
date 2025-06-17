@@ -1,0 +1,13 @@
+event_id,name,year,is_lan,is_bracket
+72,CDL League Championship ,2025,True,True
+54,CDL Major 1 Qualifier,2025,False,False
+56,CDL Major 1 Tournament,2025,True,True
+57,CDL Major 2 Qualifier,2025,False,False
+59,CDL Major 2 Tournament,2025,True,True
+60,CDL Major 3 Qualifier,2025,False,False
+61,CDL Major 3 Tournament,2025,True,True
+62,CDL Major 4 Qualifier,2025,False,False
+63,CDL Major 4 Tournament,2025,True,True
+55,CDL Minor 1 Tournament,2025,False,True
+58,CDL Minor 2 Tournament,2025,False,True
+73,Esports World Cup,2025,True,True
